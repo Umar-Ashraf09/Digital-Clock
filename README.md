@@ -14,6 +14,7 @@ Welcome to the Digital Clock web page! This application showcases a simple digit
 
 ## Preview
 
+![Digital Clock](https://github.com/Umar-Ashraf09/Digital-Clock/assets/92431008/1234bd82-8df3-4b0d-a724-27c56d56dc58)
 
 
 ## Technologies Used
